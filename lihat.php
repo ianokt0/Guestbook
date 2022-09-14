@@ -59,7 +59,7 @@
         <tr><td>&nbsp;<hr></td><td>&nbsp;<hr></td></tr>";
     }
     echo "</table>";
-    echo "<a href=main.php>Klik Disini </a> Isi Form Buku Tamu";
+    echo "<a href=index.php>Klik Disini </a> Isi Form Buku Tamu";
 
 ?>
 <br><br><br>

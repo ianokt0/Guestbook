@@ -55,7 +55,7 @@
     fclose($fp);
 ?>
     <h2 class="text-center text-success">Terima Kasih Atas Partisipasi Anda Mengisi Buku Tamu</h2><br>
-      <td><a href=main.php><p class="text-secondary text-center">Isi Buku Tamu </p></a><br></td>
+      <td><a href=index.php><p class="text-secondary text-center">Isi Buku Tamu </p></a><br></td>
 
       <td><a href=lihat.php><p class="text-secondary text-center"> Buku Tamu </p></a><br></td>
     <!-- Footer -->
@@ -72,7 +72,7 @@
           </div>
           <div class="col-6">
             <p class="text-center bcolor">
-              Instagram <a href="https://www.instagram.com/ianokt0/">Ianokt0</a> <br />
+              Instagram <a href="https://www.instagram.com/ianokt_/">Ianokt_</a> <br />
               Facebook <a href="https://www.facebook.com/naifatko/">Ian Oktafian</a>
             </p>
             <br />

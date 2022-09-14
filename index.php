@@ -114,7 +114,7 @@ if(isset($_POST['submit'])){
           </div>
           <div class="col-6">
             <p class="text-center bcolor">
-              Instagram <a href="https://www.instagram.com/ianokt0/">Ianokt0</a> <br />
+              Instagram <a href="https://www.instagram.com/ianokt_/">Ianokt_</a> <br />
               Facebook <a href="https://www.facebook.com/naifatko/">Ian Oktafian</a>
             </p>
             <br />
